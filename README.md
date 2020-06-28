@@ -1,6 +1,6 @@
 # Wine Classification
 
-[Presentation (slide-deck)](https://github.com/zunicd/Wine-Classification/blob/master/Wine Classification.pdf)
+[Presentation (slide-deck)](https://github.com/zunicd/Wine-Classification/blob/master/Wine_Classification.pdf)
 
 ### Objective
 
